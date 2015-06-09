@@ -1,2 +1,3 @@
-# xqr-cst
-C Stats in Python3
+Skript provadi analyzu zdrojovych souboru jayzak C podle
+standardu ISO C99, ktery ve stanovenem formatu vypise
+statistiky komentaru, klicovych slov, operatoru a retezcu.
